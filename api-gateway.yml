@@ -8,3 +8,7 @@ spring:
         locator:
           enabled: true
           lower-case-service-id: true
+
+eureka:
+  instance:
+    hostname: localhost
